@@ -1,8 +1,7 @@
 ---
 title: Cosmetics Semantic Search
-summary: Write about your project here...
+summary: Ooo...
 tags:
   - NLP
-date: 2022-01-01
-external_link: http://github.com
+date: 2023-01-01
 ---
