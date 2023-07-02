@@ -3,7 +3,7 @@ title: Cartoon Face Generator
 summary: Here is something about project
 tags:
   - CV
-date: 2022-01-01
+date: 2023-01-01
 ---
 
 
