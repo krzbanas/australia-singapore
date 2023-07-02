@@ -25,4 +25,4 @@ Check out my [resumé](/about/) and portfolio below 😍
 
 Testing Gallery
 
-{{< gallery album="2023-06" >}} 
+{{< gallery album="assets/media/albums/2023-06/" >}} 
